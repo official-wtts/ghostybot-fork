@@ -1,5 +1,5 @@
 
-<center><h1>[Forked] Ghostybot 🚀</h1></center>
+<h1 align="center">[Forked] Ghostybot 🚀</h1>
 
 This project is a fork of the original Ghostybot—rebuilt with a forward-thinking approach and enhanced features. This fork is an evolving work-in-progress, and I’m working on it as time permits ⏳. New versions may take a bit longer to arrive, but innovation never sleeps!
 
